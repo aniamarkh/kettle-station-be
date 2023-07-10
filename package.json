@@ -1,0 +1,16 @@
+{
+  "name": "kettle_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sleep-synchronously": "^2.0.0",
+    "websocket": "^1.0.34"
+  }
+}
